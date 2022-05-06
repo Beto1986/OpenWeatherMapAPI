@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/78559321/167210526-9400a2e7-a25f-49ca-ab6d-9811dbb6343f.png)
 
+App sencilla en donde se consulta la API "openweathermap.org" y se segun la ciudad y el país ingresado se muestran algunos datos como la temperatura actual, humedad, velocidad del viento. etc.
+
+This is a simple App in which you can get information(temperature, humidity, Wind Speed) about a city and country.
 
 # Getting Started with Create React App
 
